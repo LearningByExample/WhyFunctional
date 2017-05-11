@@ -1,5 +1,5 @@
 ## Why Functional Programming?
-This is a small example illustrating [this blog post](https://www.juan-medina.com/2017/05/01/why-functional-programming/).
+This is a small example illustrating [this blog post](https://www.juan-medina.com/2017/05/11/why-functional-programming/).
 
 The example itself could be run using:
 
